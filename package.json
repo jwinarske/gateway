@@ -72,9 +72,7 @@
     "web-push": "^3.4.4",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.2",
-    "ws": "^7.4.5"
-  },
-  "devDependencies": {
+    "ws": "^7.4.5",
     "@babel/core": "^7.13.8",
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.13.9",
